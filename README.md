@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🌱 I’m currently a PhD student at Nanyang Technological University.
+🔭 I’m currently working on multi-modal and IoT sensing fields.
+👯 I’m looking to collaborate on intelligent IoT sensing.
+📫 How to reach me: yunjiao001@e.ntu.edu.sg
 <!--
 **pridy999/pridy999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
